@@ -1,0 +1,1 @@
+# st-duckduckgo-search-connection
