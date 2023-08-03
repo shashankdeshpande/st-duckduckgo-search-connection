@@ -1,0 +1,1 @@
+from st_duckduckgo_search_connection.connection import DuckDuckGoSearchConnection as DuckDuckGoSearchConnection
