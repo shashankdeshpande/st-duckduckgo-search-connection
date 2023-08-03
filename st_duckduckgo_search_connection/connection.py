@@ -1,7 +1,6 @@
-
 import pandas as pd
-from typing import Union, Optional, Literal, cast
 from duckduckgo_search import DDGS
+from typing import Union, Optional, Literal
 from streamlit.runtime.caching import cache_data
 from streamlit.connections import ExperimentalBaseConnection
 
